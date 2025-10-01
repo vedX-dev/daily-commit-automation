@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Operating System
+.DS_Store
+thumbs.db
+
+# Editor
+.idea/
+.vscode/
+
+# Daily Commit Automation specific
+daily_commit_launcher.bat
+daily_commit.command
+daily-commit.service
+cron_setup.txt
